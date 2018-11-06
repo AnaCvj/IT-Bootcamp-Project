@@ -1,2 +1,2 @@
 # IT-Bootcamp-Project
-Invoice-factory
+Automatic Website Testing - Selenium WebDriver using Java
